@@ -11,6 +11,7 @@
 		692CD6D82639F3E400C841C4 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CD6D72639F3E400C841C4 /* ContentView.swift */; };
 		692CD6DA2639F3E600C841C4 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 692CD6D92639F3E600C841C4 /* Assets.xcassets */; };
 		692CD6DD2639F3E600C841C4 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 692CD6DC2639F3E600C841C4 /* Preview Assets.xcassets */; };
+		692CD6E6264081DA00C841C4 /* myModle .swift in Sources */ = {isa = PBXBuildFile; fileRef = 692CD6E5264081DA00C841C4 /* myModle .swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		692CD6D92639F3E600C841C4 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		692CD6DC2639F3E600C841C4 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		692CD6DE2639F3E600C841C4 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		692CD6E5264081DA00C841C4 /* myModle .swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "myModle .swift"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				692CD6D92639F3E600C841C4 /* Assets.xcassets */,
 				692CD6DE2639F3E600C841C4 /* Info.plist */,
 				692CD6DB2639F3E600C841C4 /* Preview Content */,
+				692CD6E5264081DA00C841C4 /* myModle .swift */,
 			);
 			path = LearningGH;
 			sourceTree = "<group>";
@@ -140,6 +143,7 @@
 			files = (
 				692CD6D82639F3E400C841C4 /* ContentView.swift in Sources */,
 				692CD6D62639F3E400C841C4 /* LearningGHApp.swift in Sources */,
+				692CD6E6264081DA00C841C4 /* myModle .swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
